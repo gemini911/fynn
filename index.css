@@ -415,6 +415,8 @@ a {
   background: var(--bg-card);
   border: 1px solid var(--border-subtle);
   border-radius: 16px;
+  color: inherit;
+  text-decoration: none;
   padding: 32px 28px;
   position: relative;
   overflow: hidden;
